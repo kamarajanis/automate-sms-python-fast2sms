@@ -21,4 +21,4 @@ python <your-file-name.py> <"mobile-number-to-sent"> <"message">
 
 For example 
 
-python sms.py "9283928280" "Happy New Year" 
+python sms.py "9999999999" "Happy New Year" 
