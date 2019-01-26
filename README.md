@@ -12,4 +12,13 @@ system and edit the sms.py file and modify
 as mentioned below.
 
 paste your API key in the place of YOUR_API_KEY in
-the sms.py file 
+the sms.py file
+
+
+HOW TO  RUN :
+
+python <your-file-name.py> <"mobile-number-to-sent"> <"message">
+
+For example 
+
+python sms.py "9283928280" "Happy New Year" 
